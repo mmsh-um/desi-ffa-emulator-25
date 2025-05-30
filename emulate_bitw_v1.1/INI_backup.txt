@@ -1,0 +1,723 @@
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/data/forFAemu_data_N_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/data/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/data/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/data/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            22446386
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/prepped/prepped_EZ_forFAemu_m1_N_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/prepped_QSO_EZmock_forFAemu_m1.dat'
+pfx_selprop      'out/data/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/data/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZ_prepped/EZ_FAemu_m1_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            2535187
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/prepped/prepped_EZ_forFAemu_m1_N_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/prepped_QSO_EZmock_forFAemu_m1.dat'
+pfx_selprop      'out/data/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/data/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZ_prepped/EZ_FAemu_m1_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            2535187
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/data3/forFAemu_data_N_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/data3/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/data3/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/data3/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            22446386
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/prepped/prepped_EZ_forFAemu_m1_N_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/EZoutprepped_new/EZ_FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/data3/FAemu_data_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZoutprepped_new/EZ_FAemu_m1_N_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            2535187
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/TrainedEmulator_Data/forFAemu_data_B_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/TrainedEmulator_Data/FAemu_data_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/TrainedEmulator_Data/FAemu_data_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            22446386
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/EZOutputs_TrainedOnData/prepped_EZ_forFAemu_m1_S_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/EZOutputs_TrainedOnData/EZ_FAemu_data_S_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_S_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZOutputs_TrainedOnData/EZ_FAemu_m1_S_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            2535187
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/TrainedEmulator_Mock0/forFAemu_mock0_B_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_m0_rad0.045.dat'
+pfx_selprop      'out/TrainedEmulator_Mock0/FAemu_mock0_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Mock0/FAemu_mock0_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/TrainedEmulator_Mock0/FAemu_mock0_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            31828028
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/EZOutputs_TrainedOnMock0/prepped_EZ_forFAemu_m1_B_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_m0_rad0.045.dat'
+pfx_selprop      'out/EZOutputs_TrainedOnMock0/EZ_FAemu_data_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Mock0/FAemu_mock0_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZOutputs_TrainedOnMock0/EZ_FAemu_m1_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            2535187
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/TrainedEmulator_Mock0/forFAemu_mock0_B_ELG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_m0_rad0.045.dat'
+pfx_selprop      'out/TrainedEmulator_Mock0/FAemu_mock0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Mock0/FAemu_mock0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/TrainedEmulator_Mock0/FAemu_mock0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            31828028
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/EZOutputs_TrainedOnMock0/prepped_EZ_forFAemu_m1_B_LRG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_m0_rad0.045.dat'
+pfx_selprop      'out/EZOutputs_TrainedOnMock0/EZ_FAemu_data_B_LRG_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Mock0/FAemu_mock0_B_LRG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZOutputs_TrainedOnMock0/EZ_FAemu_m1_B_LRG_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            4818724
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/EZOutputs_TrainedOnData/prepped_EZ_forFAemu_m1_B_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/EZOutputs_TrainedOnData/EZ_FAemu_data_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZOutputs_TrainedOnData/EZ_FAemu_m1_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            2535187
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/EZOutputs_TrainedOnMock0/prepped_EZ_forFAemu_m1_B_ELG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_m0_rad0.045.dat'
+pfx_selprop      'out/EZOutputs_TrainedOnMock0/EZ_FAemu_data_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Mock0/FAemu_mock0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/EZOutputs_TrainedOnMock0/EZ_FAemu_m1_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            19743386
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/Abacus2Outputs_TrainedOnData/prepped_Ab2_forFAemu_m1_B_LRG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/Abacus2Outputs_TrainedOnData/Ab2_FAemu_data_B_LRG_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_LRG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/Abacus2Outputs_TrainedOnData/Ab2_FAemu_m1_B_LRG_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            36826
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/Abacus2Outputs_TrainedOnMock0/prepped_Ab2_forFAemu_m0_B_QSO_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_m0_rad0.045.dat'
+pfx_selprop      'out/Abacus2Outputs_TrainedOnMock0/Ab2_FAemu_data_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Mock0/FAemu_mock0_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/Abacus2Outputs_TrainedOnMock0/Ab2_FAemu_m0_B_QSO_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            2605619
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/Abacus2Outputs_TrainedOnData/prepped_Ab2_forFAemu_m0_B_ELG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/Abacus2Outputs_TrainedOnData/Ab2_FAemu_data_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/Abacus2Outputs_TrainedOnData/Ab2_FAemu_m0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            13165434
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/TrainedEmulator_Data/forFAemu_data_B_ELG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/TrainedEmulator_Data/FAemu_data_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/TrainedEmulator_Data/FAemu_data_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            22446386
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/Abacus2Outputs_TrainedOnData/mocks_new/Ab2_forFAemu_m24_B_ELG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      'out/Abacus2Outputs_TrainedOnData/mocks_new/FAemu_m24_B_ELG_llen0.02_truent_cfc_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/Abacus2Outputs_TrainedOnData/mocks_new/FAemu_m24_B_ELG_llen0.02_truent_cfc_nbits217_'
+npart              13124662
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/TrainedEmulator_Data/forFAemu_data_B_BGS_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data_BGS.dat'
+pfx_selprop      'out/TrainedEmulator_Data/FAemu_data_B_BGS_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_BGS_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/TrainedEmulator_Data/FAemu_data_B_BGS_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            7031420
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/Abacus2Outputs_TrainedOnData/BGS_Cutsky/Ab2_forFAemu_m0_B_BGS_truent_part_llen0.02_v0.1.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data_BGS.dat'
+pfx_selprop      'out/Abacus2Outputs_TrainedOnData/BGS_Cutsky/FAemu_m0_B_BGS_llen0.02_truent_cfc_'
+namin_qref       'out/TrainedEmulator_Data/FAemu_data_B_BGS_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          'out/Abacus2Outputs_TrainedOnData/BGS_Cutsky/FAemu_m0_B_BGS_llen0.02_truent_cfc_nbits217_'
+npart              6870195
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta             0.d0
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/out/ab_secondgen_cosmosim/ab_secondgen_cosmosim_forFAemu_m2_B_BGS_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/fof_v1.0/in/forFAemu_data_BGS.dat'
+pfx_selprop      '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/emulate_bitw_v1.1/out/ab_secondgen_cosmosim/FAemu_m2_B_BGS_llen0.02_truent_cfc_'
+namin_qref       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/emulate_bitw_v1.1/out/TrainedEmulator_Data/FAemu_data_B_BGS_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/emulate_bitw_v1.1/out/ab_secondgen_cosmosim/FAemu_m2_B_BGS_llen0.02_truent_cfc_nbits217_'
+npart              7110098
+seed             -29867345
+thold            1
+learn_lg         F
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta0             0.d0
+beta1             0.d0
+emu_dir     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/Updated_Code_CFC/emulate_bitw_v1.1/'
+mocknum          7
+
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/fof_v1.0/out/TrainedEmulator_Data/forFAemu_data_B_LRG_truent_part_llen0.04.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/fof_v1.0/in/forFAemu_data.dat'
+pfx_selprop      '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/out/TrainedEmulator_Data/FAemu_data_B_LRG_llen0.04_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/out/TrainedEmulator_Data/FAemu_data_B_LRG_llen0.04_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/out/TrainedEmulator_Data/FAemu_data_B_LRG_llen0.04_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            22446386
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta0             0.d0
+beta1             0.d0
+emu_dir     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/emulate_bitw_v1.1/'
+mocknum          1234
+
+
+
+
+namin_part       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/fof_v1.0/out/TrainedEmulator_altMTL/forFAemu_altmtl_0_B_ELG_truent_part_llen0.02.dat'
+namin_selmsk     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/fof_v1.0/in/forFAemu_altmtl_0.dat'
+pfx_selprop      '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/emulate_bitw_v1.1/out/TrainedEmulator_altMTL/FAemu_altmtl_0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_'
+namin_qref       '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/emulate_bitw_v1.1/out/TrainedEmulator_altMTL/FAemu_altmtl_0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_indselfrac_cfc_qm.dat'
+pfx_out          '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/emulate_bitw_v1.1/out/TrainedEmulator_altMTL/FAemu_altmtl_0_B_ELG_llen0.02_truent_cfc_antico_deco0.1_beta0_nbits279_'
+npart            22188848
+seed             -29867345
+thold            1
+learn_lg         T
+emulate_lg       T
+Individual_lg    T
+close_friends_lg T
+true_ngsel_lg    F
+mu_sel           1.d0 
+sg_sel           0.d0
+frac_nt0.        1.d0
+fix_qref_lg      F
+sz0_fix          500.d0
+sg_sz_fix        50.d0
+ntm0_fix         6.d0
+sg_ntm_fix       0.5d0
+smpl             2
+antico_lg        T
+deco             0.1d0
+adj_qref_lg      F
+beta0             0.d0
+beta1             0.d0
+emu_dir     '/global/cfs/cdirs/desi/survey/catalogs/main/mocks/FAemu_preliminary/sikandar/desi-ffa-emulator/emulate_bitw_v1.1/'
+mocknum          1234
